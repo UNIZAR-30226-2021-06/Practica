@@ -1,2 +1,2 @@
 # Practica
-![CATÁN](maxresdefault.png)
+
